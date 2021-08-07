@@ -16,3 +16,8 @@ ICCV 2021 papers and code focus on point cloud analysis
   - [[Code](https://shuquanye.com/PNAL_website/)]
 
 - [Sparse-to-dense Feature Matching: Intra and Inter domain Cross-modal Learning in Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2107.14724) `segmentation` `Domain Adaptation`
+
+- [Unsupervised Point Cloud Pre-Training via View-Point Occlusion, Completion](https://arxiv.org/abs/2010.01089) `Unsupervised learning`
+  - [[Code](https://github.com/hansen7/OcCo)]
+
+- [Group-Free 3D Object Detection via Transformers](https://arxiv.org/abs/2104.00678) `3D Object Detection`
