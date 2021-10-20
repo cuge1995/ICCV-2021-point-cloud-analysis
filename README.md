@@ -6,6 +6,7 @@ ICCV 2021 papers and code focus on point cloud analysis
   - [[Code](https://github.com/tiangexiang/CurveNet)]
 
 - [Score-Based Point Cloud Denoising](https://arxiv.org/abs/2107.10981) `Denoising`
+  - [[Code](https://github.com/luost26/score-denoise)]
 
 - [ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2107.11769) `Segmentation`
 
