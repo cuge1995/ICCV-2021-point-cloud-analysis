@@ -36,3 +36,25 @@ Semantic Segmentation.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zh
 
 - [Robustness Certification for Point Cloud Models.](https://openaccess.thecvf.com/content/ICCV2021/papers/Lorenz_Robustness_Certification_for_Point_Cloud_Models_ICCV_2021_paper.pdf) `robustness`
   - [[Code](https://github.com/eth-sri/3dcertify)]
+
+- [Shape Self-Correction for Unsupervised Point Cloud Understanding.](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Shape_Self-Correction_for_Unsupervised_Point_Cloud_Understanding_ICCV_2021_paper.pdf) `Unsupervised learning`
+
+- [Pyramid Point Cloud Transformer for Large-Scale Place Recognition.](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf) `Place_Recognition`
+  - [[Code](https://github.com/fpthink/PPT-Net)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
