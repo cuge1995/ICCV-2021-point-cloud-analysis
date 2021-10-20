@@ -32,3 +32,7 @@ ICCV 2021 papers and code focus on point cloud analysis
 - [Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud
 Semantic Segmentation.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.pdf) `segmentation`
 
+- [TempNet: Online Semantic Segmentation on Large-scale Point Cloud Series.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_TempNet_Online_Semantic_Segmentation_on_Large-Scale_Point_Cloud_Series_ICCV_2021_paper.pdf) `segmentation`
+
+- [Robustness Certification for Point Cloud Models.](https://openaccess.thecvf.com/content/ICCV2021/papers/Lorenz_Robustness_Certification_for_Point_Cloud_Models_ICCV_2021_paper.pdf) `robustness`
+  - [[Code](https://github.com/eth-sri/3dcertify)]
