@@ -45,9 +45,10 @@ Semantic Segmentation.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zh
 - [Geometry-Aware Self-Training for Unsupervised Domain Adaptation on Object Point Clouds.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_Geometry-Aware_Self-Training_for_Unsupervised_Domain_Adaptation_on_Object_Point_Clouds_ICCV_2021_paper.pdf) `Domain Adaptation`
   - [[Code](https://github.com/zou-longkun/GAST)]
 
+- [Differentiable Convolution Search for Point Cloud Processing.](https://openaccess.thecvf.com/content/ICCV2021/papers/Nie_Differentiable_Convolution_Search_for_Point_Cloud_Processing_ICCV_2021_paper.pdf) `NAS`
 
-
-
+- [Learning Inner-group Relations on Point Clouds.](https://openaccess.thecvf.com/content/ICCV2021/papers/Ran_Learning_Inner-Group_Relations_on_Point_Clouds_ICCV_2021_paper.pdf) `classification`
+  - [[Code](https://github.com/hancyran/RPNet-Point-Clouds)]
 
 
 
