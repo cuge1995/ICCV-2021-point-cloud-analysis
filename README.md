@@ -42,7 +42,8 @@ Semantic Segmentation.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zh
 - [Pyramid Point Cloud Transformer for Large-Scale Place Recognition.](https://openaccess.thecvf.com/content/ICCV2021/papers/Hui_Pyramid_Point_Cloud_Transformer_for_Large-Scale_Place_Recognition_ICCV_2021_paper.pdf) `Place_Recognition`
   - [[Code](https://github.com/fpthink/PPT-Net)]
 
-
+- [Geometry-Aware Self-Training for Unsupervised Domain Adaptation on Object Point Clouds.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_Geometry-Aware_Self-Training_for_Unsupervised_Domain_Adaptation_on_Object_Point_Clouds_ICCV_2021_paper.pdf) `Domain Adaptation`
+  - [[Code](https://github.com/zou-longkun/GAST)]
 
 
 
