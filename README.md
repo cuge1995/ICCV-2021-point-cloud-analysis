@@ -26,5 +26,8 @@ ICCV 2021 papers and code focus on point cloud analysis
 - [Hierarchical Aggregation for 3D Instance Segmentation](https://arxiv.org/abs/2108.02350) `segmentation`
   - [[Code](https://github.com/hustvl/HAIS)]
 
+- [3DVG-Transformer: Relation Modeling for Visual Grounding on Point Clouds.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_3DVG-Transformer_Relation_Modeling_for_Visual_Grounding_on_Point_Clouds_ICCV_2021_paper.pdf) `3D Visual Grounding`
 
+- [Perturbed Self-Distillation: Weakly Supervised Large-Scale Point Cloud
+Semantic Segmentation.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Perturbed_Self-Distillation_Weakly_Supervised_Large-Scale_Point_Cloud_Semantic_Segmentation_ICCV_2021_paper.pdf) `segmentation`
 
