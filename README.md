@@ -50,9 +50,11 @@ Semantic Segmentation.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zh
 - [Learning Inner-group Relations on Point Clouds.](https://openaccess.thecvf.com/content/ICCV2021/papers/Ran_Learning_Inner-Group_Relations_on_Point_Clouds_ICCV_2021_paper.pdf) `classification`
   - [[Code](https://github.com/hancyran/RPNet-Point-Clouds)]
 
+- [Point-Based Modeling of Human Clothing.](https://openaccess.thecvf.com/content/ICCV2021/papers/Zakharkin_Point-Based_Modeling_of_Human_Clothing_ICCV_2021_paper.pdf) 
+  - [[Code](https://github.com/saic-vul/point_based_clothing)]
 
-
-
+- [Cloud Transformers: A Universal Approach To Point Cloud Processing Tasks.](https://arxiv.org/pdf/2007.11679.pdf) `classification`
+  - [[Code](https://github.com/saic-vul/cloud_transformers)]
 
 
 
